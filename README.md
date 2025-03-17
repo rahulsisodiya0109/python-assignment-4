@@ -19,7 +19,7 @@ This script:
 
 ## How to Run
 1. Clone the repository:
-git clone https://github.com/yourusername/python-assignment-4.git
+git clone https://github.com/rahulsisodiya0109/python-assignment-4.git
 2. Navigate to the folder:
 cd python-assignment-4
 3. Run the scripts:
